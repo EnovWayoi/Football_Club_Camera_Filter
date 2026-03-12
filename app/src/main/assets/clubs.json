@@ -1,0 +1,5642 @@
+[
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 5.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "primaryColor": "#4fc9ba",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 5.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "primaryColor": "#afce84",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "manchester_city",
+    "name": "Manchester City",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 5.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "primaryColor": "#ebf2d2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
+    "primaryColor": "#8056df",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "newcastle_united",
+    "name": "Newcastle United",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "primaryColor": "#fd9aa9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tottenham_hotspur",
+    "name": "Tottenham Hotspur",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "primaryColor": "#97b4fd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aston_villa",
+    "name": "Aston Villa",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "primaryColor": "#568cd4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "manchester_united",
+    "name": "Manchester United",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "primaryColor": "#9ff485",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "nottingham_forest",
+    "name": "Nottingham Forest",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
+    "primaryColor": "#9939bb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bournemouth",
+    "name": "Bournemouth",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "primaryColor": "#b436d5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "brighton_&_hove_albion",
+    "name": "Brighton & Hove Albion",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Brighton%20%26%20Hove%20Albion&background=f53f6a&color=fff&size=128",
+    "primaryColor": "#f53f6a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "crystal_palace",
+    "name": "Crystal Palace",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "primaryColor": "#507469",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "west_ham_united",
+    "name": "West Ham United",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png",
+    "primaryColor": "#a94525",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "brentford",
+    "name": "Brentford",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "primaryColor": "#540133",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fulham",
+    "name": "Fulham",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "primaryColor": "#8cd5e9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "everton",
+    "name": "Everton",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "primaryColor": "#6414a6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "leeds_united",
+    "name": "Leeds United",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "primaryColor": "#da7d3a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wolverhampton_wanderers",
+    "name": "Wolverhampton Wanderers",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png",
+    "primaryColor": "#51fd1d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "burnley",
+    "name": "Burnley",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png",
+    "primaryColor": "#cf13b1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sunderland",
+    "name": "Sunderland",
+    "nation": "England",
+    "league": "Premier League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "primaryColor": "#1820e9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ipswich_town",
+    "name": "Ipswich Town",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "primaryColor": "#96b994",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "leicester_city",
+    "name": "Leicester City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xtxwtu1448813356.png",
+    "primaryColor": "#684362",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "southampton",
+    "name": "Southampton",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ggqtd01621593274.png",
+    "primaryColor": "#5a8844",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "birmingham_city",
+    "name": "Birmingham City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wufs551672950865.png",
+    "primaryColor": "#ff0b8a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bristol_city",
+    "name": "Bristol City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0ejxwz1601721013.png",
+    "primaryColor": "#b69f52",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "coventry_city",
+    "name": "Coventry City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "primaryColor": "#f9fc71",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "middlesbrough",
+    "name": "Middlesbrough",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9xcx0p1770828600.png",
+    "primaryColor": "#b4cb58",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "norwich_city",
+    "name": "Norwich City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/pabczm1679951464.png",
+    "primaryColor": "#709326",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sheffield_united",
+    "name": "Sheffield United",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w7f8pj1672950689.png",
+    "primaryColor": "#851eb9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hull_city",
+    "name": "Hull City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "primaryColor": "#1ff848",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "millwall",
+    "name": "Millwall",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5p1z5k1537208888.png",
+    "primaryColor": "#ea11a8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "queens_park_rangers",
+    "name": "Queens Park Rangers",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/l4qscx1601721022.png",
+    "primaryColor": "#244449",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stoke_city",
+    "name": "Stoke City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d16frn1678807158.png",
+    "primaryColor": "#dcc3f7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "watford",
+    "name": "Watford",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsuswy1448813519.png",
+    "primaryColor": "#6e424e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "west_bromwich_albion",
+    "name": "West Bromwich Albion",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
+    "primaryColor": "#7c9dd0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "blackburn_rovers",
+    "name": "Blackburn Rovers",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rvryut1448810814.png",
+    "primaryColor": "#4afeed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "derby_county",
+    "name": "Derby County",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jioo4z1557155744.png",
+    "primaryColor": "#a841f5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "oxford_united",
+    "name": "Oxford United",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/la34wg1601726102.png",
+    "primaryColor": "#a8bdfd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "preston_north_end",
+    "name": "Preston North End",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wqtwvw1448811512.png",
+    "primaryColor": "#85c8b0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "swansea_city",
+    "name": "Swansea City",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png",
+    "primaryColor": "#8e91d1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wrexham",
+    "name": "Wrexham",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
+    "primaryColor": "#85f8ff",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "charlton_athletic",
+    "name": "Charlton Athletic",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o08wvi1635872307.png",
+    "primaryColor": "#aa903e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "portsmouth",
+    "name": "Portsmouth",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/j13pfe1601726274.png",
+    "primaryColor": "#da8715",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sheffield_wednesday",
+    "name": "Sheffield Wednesday",
+    "nation": "England",
+    "league": "Efl Championship",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lonnw91601721029.png",
+    "primaryColor": "#f8e922",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "luton_town",
+    "name": "Luton Town",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/v977eh1681319466.png",
+    "primaryColor": "#e30723",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cardiff_city",
+    "name": "Cardiff City",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xtytpt1448808285.png",
+    "primaryColor": "#e61b19",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "huddersfield_town",
+    "name": "Huddersfield Town",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/y11fin1677527513.png",
+    "primaryColor": "#a74c87",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "blackpool",
+    "name": "Blackpool",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/utywru1448754934.png",
+    "primaryColor": "#272fe1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bolton_wanderers",
+    "name": "Bolton Wanderers",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yvxxrv1448808301.png",
+    "primaryColor": "#87f713",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "plymouth_argyle",
+    "name": "Plymouth Argyle",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wod5cj1689630278.png",
+    "primaryColor": "#a0111c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wycombe_wanderers",
+    "name": "Wycombe Wanderers",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/avi3bu1688678934.png",
+    "primaryColor": "#e2953e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "barnsley",
+    "name": "Barnsley",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xvxsuv1447437855.png",
+    "primaryColor": "#4e7268",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "reading",
+    "name": "Reading",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tprvtu1448811527.png",
+    "primaryColor": "#26fccd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rotherham_united",
+    "name": "Rotherham United",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sewy0z1752149213.png",
+    "primaryColor": "#206b83",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stockport_county",
+    "name": "Stockport County",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jcsz9k1594450753.png",
+    "primaryColor": "#f6c9a7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wigan_athletic",
+    "name": "Wigan Athletic",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wtxwyw1448759640.png",
+    "primaryColor": "#e0eeca",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lincoln_city",
+    "name": "Lincoln City",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/x46tji1719860130.png",
+    "primaryColor": "#9fd7be",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mansfield_town",
+    "name": "Mansfield Town",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/c1fpes1761709071.png",
+    "primaryColor": "#76e3dd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "port_vale",
+    "name": "Port Vale",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/s1ke3v1761710614.png",
+    "primaryColor": "#04799c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stevenage",
+    "name": "Stevenage",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o4m2ci1596480474.png",
+    "primaryColor": "#581366",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "exeter_city",
+    "name": "Exeter City",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/98wt4h1521144923.png",
+    "primaryColor": "#948366",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "burton_albion",
+    "name": "Burton Albion",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uvpqpw1423804499.png",
+    "primaryColor": "#a28edf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "northampton_town",
+    "name": "Northampton Town",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/aa42641684131255.png",
+    "primaryColor": "#0ad7bc",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "peterborough_united",
+    "name": "Peterborough United",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/63gt4u1761710001.png",
+    "primaryColor": "#7d12a1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "crawley_town",
+    "name": "Crawley Town",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/a9hv3n1689632800.png",
+    "primaryColor": "#646122",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "carlisle_united",
+    "name": "Carlisle United",
+    "nation": "England",
+    "league": "Efl League One",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wqqpuy1423804947.png",
+    "primaryColor": "#9d2bef",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "notts_county",
+    "name": "Notts County",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/utqwvp1424032678.png",
+    "primaryColor": "#4e18b5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bristol_rovers",
+    "name": "Bristol Rovers",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kkmj4o1689317429.png",
+    "primaryColor": "#19dff9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cambridge_united",
+    "name": "Cambridge United",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ggihm61750279411.png",
+    "primaryColor": "#b8b10c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shrewsbury_town",
+    "name": "Shrewsbury Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9zqhpw1546434997.png",
+    "primaryColor": "#e65362",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cheltenham_town",
+    "name": "Cheltenham Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/otewhc1761452845.png",
+    "primaryColor": "#4dd210",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chesterfield",
+    "name": "Chesterfield",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwwpry1424032525.png",
+    "primaryColor": "#866c3a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "colchester_united",
+    "name": "Colchester United",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ttvpqt1424033597.png",
+    "primaryColor": "#c6a9a0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fleetwood_town",
+    "name": "Fleetwood Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/txwuwp1424032712.png",
+    "primaryColor": "#32ce70",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gillingham",
+    "name": "Gillingham",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sqxvpp1424033506.png",
+    "primaryColor": "#472a84",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "grimsby_town",
+    "name": "Grimsby Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yyupxs1464537075.png",
+    "primaryColor": "#995a0f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "walsall",
+    "name": "Walsall",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ivjidn1689630099.png",
+    "primaryColor": "#ae9f87",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "barnet",
+    "name": "Barnet",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wyqvwq1447531659.png",
+    "primaryColor": "#8cae85",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "barrow",
+    "name": "Barrow",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6ubn501512067488.png",
+    "primaryColor": "#e19257",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bromley",
+    "name": "Bromley",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qq7kzz1661950278.png",
+    "primaryColor": "#776636",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "crewe_alexandra",
+    "name": "Crewe Alexandra",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xurvtu1424033658.png",
+    "primaryColor": "#8acb6e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "harrogate_town",
+    "name": "Harrogate Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tf6bfs1599297313.png",
+    "primaryColor": "#b8327b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "swindon_town",
+    "name": "Swindon Town",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uwsyup1424033445.png",
+    "primaryColor": "#b7709f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tranmere_rovers",
+    "name": "Tranmere Rovers",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ao52xt1626199781.png",
+    "primaryColor": "#bc6f62",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "oldham_athletic",
+    "name": "Oldham Athletic",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/36hve81625514026.png",
+    "primaryColor": "#8750c6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "accrington_stanley",
+    "name": "Accrington Stanley",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1moddl1770786523.png",
+    "primaryColor": "#efadc0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "newport_county",
+    "name": "Newport County",
+    "nation": "England",
+    "league": "Efl League Two",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ttsryu1448814163.png",
+    "primaryColor": "#69a200",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_barcelona",
+    "name": "Fc Barcelona",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 5.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wq9sir1639406443.png",
+    "primaryColor": "#42582c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "real_madrid",
+    "name": "Real Madrid",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 5.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+    "primaryColor": "#93330b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "atlético_de_madrid",
+    "name": "Atlético De Madrid",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/x5lixs1743742872.png",
+    "primaryColor": "#f7f3ac",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "athletic_club",
+    "name": "Athletic Club",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/68w7fe1639408210.png",
+    "primaryColor": "#0587f5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "real_betis",
+    "name": "Real Betis",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2oqulv1663245386.png",
+    "primaryColor": "#7c6317",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "real_sociedad",
+    "name": "Real Sociedad",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+    "primaryColor": "#782246",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "villarreal",
+    "name": "Villarreal",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vrypqy1473503073.png",
+    "primaryColor": "#27ac67",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "girona",
+    "name": "Girona",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kfu7zu1659897499.png",
+    "primaryColor": "#51ea86",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mallorca",
+    "name": "Mallorca",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ssptsx1473503730.png",
+    "primaryColor": "#0e0771",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rayo_vallecano",
+    "name": "Rayo Vallecano",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nzhu941655595465.png",
+    "primaryColor": "#a415d1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "celta_vigo",
+    "name": "Celta Vigo",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xfjtku1690436219.png",
+    "primaryColor": "#720795",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "getafe",
+    "name": "Getafe",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eyh2891655594452.png",
+    "primaryColor": "#7273a8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "osasuna",
+    "name": "Osasuna",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rvspvt1473502960.png",
+    "primaryColor": "#839b22",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sevilla",
+    "name": "Sevilla",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vpsqqx1473502977.png",
+    "primaryColor": "#b2118d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "primaryColor": "#bddfcd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "espanyol",
+    "name": "Espanyol",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/867nzz1681703222.png",
+    "primaryColor": "#d069e7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "deportivo_alavés",
+    "name": "Deportivo Alavés",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mfn99h1734673842.png",
+    "primaryColor": "#a8064b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "leganés",
+    "name": "Leganés",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tm0adr1616443898.png",
+    "primaryColor": "#61e072",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "valladolid",
+    "name": "Valladolid",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Valladolid&background=a9bfdc&color=fff&size=128",
+    "primaryColor": "#a9bfdc",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "las_palmas",
+    "name": "Las Palmas",
+    "nation": "Spain",
+    "league": "LaLiga EA Sports",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mmhyb11616443601.png",
+    "primaryColor": "#975af6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "almería",
+    "name": "Almería",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yswsww1473503818.png",
+    "primaryColor": "#854e9a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "zaragoza",
+    "name": "Zaragoza",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Zaragoza&background=aa61ed&color=fff&size=128",
+    "primaryColor": "#aa61ed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cádiz",
+    "name": "Cádiz",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/e2phzp1639408503.png",
+    "primaryColor": "#33cb99",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sporting_de_gijón",
+    "name": "Sporting De Gijón",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xxrtqx1473503054.png",
+    "primaryColor": "#5aa44d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "córdoba_cf",
+    "name": "Córdoba Cf",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ttyyvy1473503827.png",
+    "primaryColor": "#99d7ef",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "eibar",
+    "name": "Eibar",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/hccive1680933599.png",
+    "primaryColor": "#6a55a1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "racing_santander",
+    "name": "Racing Santander",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+    "primaryColor": "#fa4238",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "albacete",
+    "name": "Albacete",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/17oqja1616436316.png",
+    "primaryColor": "#192685",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "burgos",
+    "name": "Burgos",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/79h3ul1708150894.png",
+    "primaryColor": "#2198c8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "granada",
+    "name": "Granada",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f9iss11677472689.png",
+    "primaryColor": "#8b3bcf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "huesca",
+    "name": "Huesca",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tuxusx1447590509.png",
+    "primaryColor": "#dae714",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "castellón",
+    "name": "Castellón",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ywibjw1733456820.png",
+    "primaryColor": "#af66b7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "málaga",
+    "name": "Málaga",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/upqyvr1473502952.png",
+    "primaryColor": "#9282ad",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mirandés",
+    "name": "Mirandés",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xjeaa21625677345.png",
+    "primaryColor": "#a6b00f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tenerife",
+    "name": "Tenerife",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/utuqys1420503958.png",
+    "primaryColor": "#c81266",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "racing_ferrol",
+    "name": "Racing Ferrol",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+    "primaryColor": "#61dcb3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "oviedo",
+    "name": "Oviedo",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Oviedo&background=0ff290&color=fff&size=128",
+    "primaryColor": "#0ff290",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "levante",
+    "name": "Levante",
+    "nation": "Spain",
+    "league": "Laliga Hypermotion",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xwtxsx1473503739.png",
+    "primaryColor": "#1c9815",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_bayern_münchen",
+    "name": "Fc Bayern München",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 5.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Bayern%20M%C3%BCnchen&background=fc1a90&color=fff&size=128",
+    "primaryColor": "#fc1a90",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "borussia_dortmund",
+    "name": "Borussia Dortmund",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tqo8ge1716960353.png",
+    "primaryColor": "#9457f1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bayer_04_leverkusen",
+    "name": "Bayer 04 Leverkusen",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 4.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Bayer%2004%20Leverkusen&background=1475ce&color=fff&size=128",
+    "primaryColor": "#1475ce",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rb_leipzig",
+    "name": "Rb Leipzig",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+    "primaryColor": "#35d151",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "eintracht_frankfurt",
+    "name": "Eintracht Frankfurt",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    "primaryColor": "#48199c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vfb_stuttgart",
+    "name": "Vfb Stuttgart",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yppyux1473454085.png",
+    "primaryColor": "#185c0e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vfl_wolfsburg",
+    "name": "Vfl Wolfsburg",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Vfl%20Wolfsburg&background=027e70&color=fff&size=128",
+    "primaryColor": "#027e70",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sc_freiburg",
+    "name": "Sc Freiburg",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sc%20Freiburg&background=a3257e&color=fff&size=128",
+    "primaryColor": "#a3257e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "borussia_mönchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sysurw1473453380.png",
+    "primaryColor": "#983a7e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_augsburg",
+    "name": "Fc Augsburg",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xqyyvq1473453233.png",
+    "primaryColor": "#f3c41c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tsg_hoffenheim",
+    "name": "Tsg Hoffenheim",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Tsg%20Hoffenheim&background=12273a&color=fff&size=128",
+    "primaryColor": "#12273a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fsv_mainz_05",
+    "name": "1. Fsv Mainz 05",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fhm9v51552134916.png",
+    "primaryColor": "#019249",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sv_werder_bremen",
+    "name": "Sv Werder Bremen",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tkvqan1716960454.png",
+    "primaryColor": "#892de9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "union_berlin",
+    "name": "Union Berlin",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/q0o5001599679795.png",
+    "primaryColor": "#efb96e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_köln",
+    "name": "1. Fc Köln",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/u2qj9m1630021108.png",
+    "primaryColor": "#21ff37",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hamburger_sv",
+    "name": "Hamburger Sv",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Hamburger%20Sv&background=42e07c&color=fff&size=128",
+    "primaryColor": "#42e07c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_heidenheim",
+    "name": "1. Fc Heidenheim",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=1.%20Fc%20Heidenheim&background=3e56d5&color=fff&size=128",
+    "primaryColor": "#3e56d5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_st_pauli",
+    "name": "Fc St. Pauli",
+    "nation": "Germany",
+    "league": "Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5qupxa1608237013.png",
+    "primaryColor": "#0788d4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vfl_bochum",
+    "name": "Vfl Bochum",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kag3jy1599821108.png",
+    "primaryColor": "#ca634a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "darmstadt_98",
+    "name": "Darmstadt 98",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5f3dyd1608236981.png",
+    "primaryColor": "#f94fa2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hertha_bsc",
+    "name": "Hertha Bsc",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8okmtm1621593943.png",
+    "primaryColor": "#753678",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "holstein_kiel",
+    "name": "Holstein Kiel",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1fpmgs1514394524.png",
+    "primaryColor": "#296304",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fortuna_düsseldorf",
+    "name": "Fortuna Düsseldorf",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsruww1473454140.png",
+    "primaryColor": "#0cea31",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hannover_96",
+    "name": "Hannover 96",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tqpqqv1473454148.png",
+    "primaryColor": "#d0bb08",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_kaiserslautern",
+    "name": "1. Fc Kaiserslautern",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=1.%20Fc%20Kaiserslautern&background=9a72a7&color=fff&size=128",
+    "primaryColor": "#9a72a7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sv_elversberg",
+    "name": "Sv Elversberg",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sv%20Elversberg&background=f54ca4&color=fff&size=128",
+    "primaryColor": "#f54ca4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "greuther_fürth",
+    "name": "Greuther Fürth",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/87n1901608237004.png",
+    "primaryColor": "#12d7df",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "karlsruher_sc",
+    "name": "Karlsruher Sc",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/l784ls1696006504.png",
+    "primaryColor": "#613bf8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_magdeburg",
+    "name": "1. Fc Magdeburg",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=1.%20Fc%20Magdeburg&background=9263d6&color=fff&size=128",
+    "primaryColor": "#9263d6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_nürnberg",
+    "name": "1. Fc Nürnberg",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=1.%20Fc%20N%C3%BCrnberg&background=4dd8fe&color=fff&size=128",
+    "primaryColor": "#4dd8fe",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sc_paderborn",
+    "name": "Sc Paderborn",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sc%20Paderborn&background=85ca08&color=fff&size=128",
+    "primaryColor": "#85ca08",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_schalke_04",
+    "name": "Fc Schalke 04",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Schalke%2004&background=846293&color=fff&size=128",
+    "primaryColor": "#846293",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "eintracht_braunschweig",
+    "name": "Eintracht Braunschweig",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lrrq0z1599820707.png",
+    "primaryColor": "#14fdb8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dynamo_dresden",
+    "name": "Dynamo Dresden",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yxqvxp1471898795.png",
+    "primaryColor": "#a18f1b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "preußen_münster",
+    "name": "Preußen Münster",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nu38ih1579106303.png",
+    "primaryColor": "#d809a0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "arminia_bielefeld",
+    "name": "Arminia Bielefeld",
+    "nation": "Germany",
+    "league": "2. Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xrrwpx1447591964.png",
+    "primaryColor": "#b27b50",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tsv_1860_münchen",
+    "name": "Tsv 1860 München",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Tsv%201860%20M%C3%BCnchen&background=f6f2a1&color=fff&size=128",
+    "primaryColor": "#f6f2a1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hansa_rostock",
+    "name": "Hansa Rostock",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/g96u1z1660300651.png",
+    "primaryColor": "#04c48e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "1_fc_saarbrücken",
+    "name": "1. Fc Saarbrücken",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=1.%20Fc%20Saarbr%C3%BCcken&background=9efc87&color=fff&size=128",
+    "primaryColor": "#9efc87",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rot-weiss_essen",
+    "name": "Rot-Weiss Essen",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/h9lz2d1580150937.png",
+    "primaryColor": "#6d305d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wehen_wiesbaden",
+    "name": "Wehen Wiesbaden",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8clib21565194003.png",
+    "primaryColor": "#a69709",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "alemannia_aachen",
+    "name": "Alemannia Aachen",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/hcbovz1726533617.png",
+    "primaryColor": "#0d731c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "erzgebirge_aue",
+    "name": "Erzgebirge Aue",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vudwit1608236951.png",
+    "primaryColor": "#85a7e0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "energie_cottbus",
+    "name": "Energie Cottbus",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8ks84j1750352338.png",
+    "primaryColor": "#74b4d3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_ingolstadt_04",
+    "name": "Fc Ingolstadt 04",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Ingolstadt%2004&background=da80c1&color=fff&size=128",
+    "primaryColor": "#da80c1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "jahn_regensburg",
+    "name": "Jahn Regensburg",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dedrta1608236993.png",
+    "primaryColor": "#72d3a4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ssv_ulm",
+    "name": "Ssv Ulm",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ssv%20Ulm&background=9f41ed&color=fff&size=128",
+    "primaryColor": "#9f41ed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sv_waldhof_mannheim",
+    "name": "Sv Waldhof Mannheim",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sv%20Waldhof%20Mannheim&background=d9de30&color=fff&size=128",
+    "primaryColor": "#d9de30",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "msv_duisburg",
+    "name": "Msv Duisburg",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Msv%20Duisburg&background=b1b47e&color=fff&size=128",
+    "primaryColor": "#b1b47e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tsv_havelse",
+    "name": "Tsv Havelse",
+    "nation": "Germany",
+    "league": "3. Liga",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Tsv%20Havelse&background=8e4894&color=fff&size=128",
+    "primaryColor": "#8e4894",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "inter_milan",
+    "name": "Inter Milan",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ryhu6d1617113103.png",
+    "primaryColor": "#8c5830",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/l8qyxv1742982541.png",
+    "primaryColor": "#c600c0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "primaryColor": "#fdb4b6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ac_milan",
+    "name": "Ac Milan",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "primaryColor": "#35af98",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "atalanta",
+    "name": "Atalanta",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lrvxg71534873930.png",
+    "primaryColor": "#e341c0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ss_lazio",
+    "name": "Ss Lazio",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ss%20Lazio&background=3884c9&color=fff&size=128",
+    "primaryColor": "#3884c9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "as_roma",
+    "name": "As Roma",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 4.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=As%20Roma&background=906355&color=fff&size=128",
+    "primaryColor": "#906355",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bologna_fc_1909",
+    "name": "Bologna Fc 1909",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2qi1u31655592366.png",
+    "primaryColor": "#59cea4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "acf_fiorentina",
+    "name": "Acf Fiorentina",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Acf%20Fiorentina&background=ce83f4&color=fff&size=128",
+    "primaryColor": "#ce83f4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "torino_fc",
+    "name": "Torino Fc",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xxprty1448806802.png",
+    "primaryColor": "#29f94c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "como_1907",
+    "name": "Como 1907",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/02x81t1627405841.png",
+    "primaryColor": "#021eed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "genoa_cfc",
+    "name": "Genoa Cfc",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/52s8dn1655553600.png",
+    "primaryColor": "#2146d4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sassuolo",
+    "name": "Sassuolo",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xystvp1448806138.png",
+    "primaryColor": "#e3e697",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "udinese_calcio",
+    "name": "Udinese Calcio",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vwvstr1448806811.png",
+    "primaryColor": "#c16230",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cagliari_calcio",
+    "name": "Cagliari Calcio",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvsvxt1447534471.png",
+    "primaryColor": "#ecd3f5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cremonese",
+    "name": "Cremonese",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6ng2vy1579708291.png",
+    "primaryColor": "#e7ebd6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hellas_verona",
+    "name": "Hellas Verona",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/p6camf1593457737.png",
+    "primaryColor": "#390694",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "us_lecce",
+    "name": "Us Lecce",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Us%20Lecce&background=85544b&color=fff&size=128",
+    "primaryColor": "#85544b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "parma_calcio_1913",
+    "name": "Parma Calcio 1913",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6yiaxs1627406063.png",
+    "primaryColor": "#8a14cf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "pisa_sporting_club",
+    "name": "Pisa Sporting Club",
+    "nation": "Italy",
+    "league": "Serie A",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2eso9w1579708309.png",
+    "primaryColor": "#f127a3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "palermo",
+    "name": "Palermo",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zi1tb01579708939.png",
+    "primaryColor": "#819169",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "monza",
+    "name": "Monza",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bxearg1603170113.png",
+    "primaryColor": "#f99eb1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "venezia_fc",
+    "name": "Venezia Fc",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/95fg4n1656696080.png",
+    "primaryColor": "#0e57a9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "modena",
+    "name": "Modena",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/93n2wm1656015823.png",
+    "primaryColor": "#0baa64",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sampdoria",
+    "name": "Sampdoria",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/pr6co21655592769.png",
+    "primaryColor": "#13777a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "spezia",
+    "name": "Spezia",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3wgebp1749146364.png",
+    "primaryColor": "#1622fe",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/isfrtg1579724972.png",
+    "primaryColor": "#0a2639",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "catanzaro",
+    "name": "Catanzaro",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/byrc5e1691995858.png",
+    "primaryColor": "#80f61e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "empoli",
+    "name": "Empoli",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/c1ie6b1622561483.png",
+    "primaryColor": "#0344ab",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mantova",
+    "name": "Mantova",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6mz7tb1648579351.png",
+    "primaryColor": "#586ea9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "südtirol",
+    "name": "Südtirol",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8fico41579725098.png",
+    "primaryColor": "#1d1ea8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cesena",
+    "name": "Cesena",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9l00zr1677256723.png",
+    "primaryColor": "#b8db01",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ss_juve_stabia",
+    "name": "Ss Juve Stabia",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ss%20Juve%20Stabia&background=382b16&color=fff&size=128",
+    "primaryColor": "#382b16",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "reggiana",
+    "name": "Reggiana",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dffx6o1600266770.png",
+    "primaryColor": "#6ed1cd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "pescara",
+    "name": "Pescara",
+    "nation": "Italy",
+    "league": "Serie B",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uywyxr1426869739.png",
+    "primaryColor": "#f0dc05",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "paris_saint-germain",
+    "name": "Paris Saint-Germain",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 5.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Paris%20Saint-Germain&background=43f00e&color=fff&size=128",
+    "primaryColor": "#43f00e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "olympique_de_marseille",
+    "name": "Olympique De Marseille",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uutsyt1473504764.png",
+    "primaryColor": "#d2b58e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "as_monaco",
+    "name": "As Monaco",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/exjf5l1678808044.png",
+    "primaryColor": "#39e74f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "losc_lille",
+    "name": "Losc Lille",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2giize1534005340.png",
+    "primaryColor": "#4f2092",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "olympique_lyonnais",
+    "name": "Olympique Lyonnais",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Olympique%20Lyonnais&background=8440d8&color=fff&size=128",
+    "primaryColor": "#8440d8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ogc_nice",
+    "name": "Ogc Nice",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png",
+    "primaryColor": "#e51843",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stade_rennais_fc",
+    "name": "Stade Rennais Fc",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Stade%20Rennais%20Fc&background=198d58&color=fff&size=128",
+    "primaryColor": "#198d58",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rc_strasbourg_alsace",
+    "name": "Rc Strasbourg Alsace",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Rc%20Strasbourg%20Alsace&background=67d537&color=fff&size=128",
+    "primaryColor": "#67d537",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rc_lens",
+    "name": "Rc Lens",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3pxoum1598797195.png",
+    "primaryColor": "#ce8168",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "toulouse_fc",
+    "name": "Toulouse Fc",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/17eqox1688449282.png",
+    "primaryColor": "#8ba178",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aj_auxerre",
+    "name": "Aj Auxerre",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Aj%20Auxerre&background=2e2ae5&color=fff&size=128",
+    "primaryColor": "#2e2ae5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stade_brestois_29",
+    "name": "Stade Brestois 29",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/z69be41598797026.png",
+    "primaryColor": "#6c987a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_nantes",
+    "name": "Fc Nantes",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mla9x61678808018.png",
+    "primaryColor": "#757ab3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "paris_fc",
+    "name": "Paris Fc",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yuvtsy1447594254.png",
+    "primaryColor": "#46add2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "angers_sco",
+    "name": "Angers Sco",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ix6q4w1678808069.png",
+    "primaryColor": "#99b952",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "le_havre_ac",
+    "name": "Le Havre Ac",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Le%20Havre%20Ac&background=4ef4dd&color=fff&size=128",
+    "primaryColor": "#4ef4dd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "as_saint-étienne",
+    "name": "As Saint-Étienne",
+    "nation": "France",
+    "league": "Ligue 1",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=As%20Saint-%C3%89tienne&background=1ac03c&color=fff&size=128",
+    "primaryColor": "#1ac03c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "stade_de_reims",
+    "name": "Stade De Reims",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xcrw1b1592925946.png",
+    "primaryColor": "#13f2c5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "montpellier_hsc",
+    "name": "Montpellier Hsc",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8wn9x31750879448.png",
+    "primaryColor": "#ce0dd6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_lorient",
+    "name": "Fc Lorient",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxsttw1473504748.png",
+    "primaryColor": "#7ae45d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "en_avant_guingamp",
+    "name": "En Avant Guingamp",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=En%20Avant%20Guingamp&background=0490fc&color=fff&size=128",
+    "primaryColor": "#0490fc",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "grenoble_foot_38",
+    "name": "Grenoble Foot 38",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/x2hcpg1488227785.png",
+    "primaryColor": "#d3c0b7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "clermont_foot",
+    "name": "Clermont Foot",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wrytst1426871249.png",
+    "primaryColor": "#cd4628",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "troyes",
+    "name": "Troyes",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sl5kzg1766617559.png",
+    "primaryColor": "#bd3ff0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "usl_dunkerque",
+    "name": "Usl Dunkerque",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3s4ne51750879372.png",
+    "primaryColor": "#8c7b5c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "red_star_fc",
+    "name": "Red Star Fc",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Red%20Star%20Fc&background=f04e22&color=fff&size=128",
+    "primaryColor": "#f04e22",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "amiens_sc",
+    "name": "Amiens Sc",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nwgget1656423507.png",
+    "primaryColor": "#5a643c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sc_bastia",
+    "name": "Sc Bastia",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sc%20Bastia&background=380332&color=fff&size=128",
+    "primaryColor": "#380332",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rodez_af",
+    "name": "Rodez Af",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/e8rjka1576848094.png",
+    "primaryColor": "#67ab1a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "as_nancy_lorraine",
+    "name": "As Nancy Lorraine",
+    "nation": "France",
+    "league": "Ligue 2",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=As%20Nancy%20Lorraine&background=59e80e&color=fff&size=128",
+    "primaryColor": "#59e80e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sporting_cp",
+    "name": "Sporting Cp",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ohj6ih1628855978.png",
+    "primaryColor": "#8301a6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sl_benfica",
+    "name": "Sl Benfica",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0pywy21662316682.png",
+    "primaryColor": "#b528cf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_porto",
+    "name": "Fc Porto",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
+    "primaryColor": "#7e1afd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sporting_braga",
+    "name": "Sporting Braga",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 3.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sporting%20Braga&background=1f5917&color=fff&size=128",
+    "primaryColor": "#1f5917",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vitória_de_guimarães",
+    "name": "Vitória De Guimarães",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/af52z61628855707.png",
+    "primaryColor": "#f1180f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "estoril_praia",
+    "name": "Estoril Praia",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lq9h8m1628854051.png",
+    "primaryColor": "#4a8959",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_famalicão",
+    "name": "Fc Famalicão",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Famalic%C3%A3o&background=73d7ec&color=fff&size=128",
+    "primaryColor": "#73d7ec",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "santa_clara",
+    "name": "Santa Clara",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7337a61724860742.png",
+    "primaryColor": "#24c53c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "arouca",
+    "name": "Arouca",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vgbzjq1628853833.png",
+    "primaryColor": "#6c7f88",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "casa_pia",
+    "name": "Casa Pia",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d8ugsc1678717133.png",
+    "primaryColor": "#5fd907",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gil_vicente",
+    "name": "Gil Vicente",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/88bsg41626201503.png",
+    "primaryColor": "#76b249",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rio_ave",
+    "name": "Rio Ave",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ngbklq1628851239.png",
+    "primaryColor": "#657787",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cd_nacional",
+    "name": "Cd Nacional",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Cd%20Nacional&background=61a73c&color=fff&size=128",
+    "primaryColor": "#61a73c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "avs_futebol_sad",
+    "name": "Avs Futebol Sad",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Avs%20Futebol%20Sad&background=522138&color=fff&size=128",
+    "primaryColor": "#522138",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "estrela_amadora",
+    "name": "Estrela Amadora",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2tx5621626095555.png",
+    "primaryColor": "#a91938",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "moreirense",
+    "name": "Moreirense",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yrquxu1471878153.png",
+    "primaryColor": "#07727b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tondela",
+    "name": "Tondela",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o7nqff1628856081.png",
+    "primaryColor": "#02e8e9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_alverca_sad",
+    "name": "Fc Alverca Sad",
+    "nation": "Portugal",
+    "league": "Liga Portugal",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Alverca%20Sad&background=c738f1&color=fff&size=128",
+    "primaryColor": "#c738f1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "psv_eindhoven",
+    "name": "Psv Eindhoven",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xfsz6i1721297428.png",
+    "primaryColor": "#e930aa",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ajax",
+    "name": "Ajax",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zg9tii1755495289.png",
+    "primaryColor": "#3eb710",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "feyenoord",
+    "name": "Feyenoord",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uturtx1473534803.png",
+    "primaryColor": "#cdae7c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "az_alkmaar",
+    "name": "Az Alkmaar",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wtqwvv1473534757.png",
+    "primaryColor": "#8a3dac",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "twente",
+    "name": "Twente",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsrxrt1473534783.png",
+    "primaryColor": "#401f1c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_utrecht",
+    "name": "Fc Utrecht",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Utrecht&background=10e12f&color=fff&size=128",
+    "primaryColor": "#10e12f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "nec_nijmegen",
+    "name": "Nec Nijmegen",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/t5qjle1701019868.png",
+    "primaryColor": "#9616fd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "go_ahead_eagles",
+    "name": "Go Ahead Eagles",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3hq2cy1685597026.png",
+    "primaryColor": "#e74081",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fortuna_sittard",
+    "name": "Fortuna Sittard",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/aqr7it1685596947.png",
+    "primaryColor": "#3aaa98",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sc_heerenveen",
+    "name": "Sc Heerenveen",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sc%20Heerenveen&background=b78b87&color=fff&size=128",
+    "primaryColor": "#b78b87",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sparta_rotterdam",
+    "name": "Sparta Rotterdam",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/upluv31586362224.png",
+    "primaryColor": "#788694",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "nac_breda",
+    "name": "Nac Breda",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ute4en1544965805.png",
+    "primaryColor": "#38cd3a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "groningen",
+    "name": "Groningen",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f36qnp1666107447.png",
+    "primaryColor": "#ce1442",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "heracles_almelo",
+    "name": "Heracles Almelo",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vyyvss1473534851.png",
+    "primaryColor": "#999d4f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "pec_zwolle",
+    "name": "Pec Zwolle",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qpvqwy1473534822.png",
+    "primaryColor": "#0e119b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "excelsior",
+    "name": "Excelsior",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bmbn9v1625172555.png",
+    "primaryColor": "#9d8374",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_volendam",
+    "name": "Fc Volendam",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rdouic1625167940.png",
+    "primaryColor": "#d4aafb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "telstar",
+    "name": "Telstar",
+    "nation": "Netherlands",
+    "league": "Eredivisie",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Telstar&background=46db68&color=fff&size=128",
+    "primaryColor": "#46db68",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "club_brugge",
+    "name": "Club Brugge",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mz8y0q1771129880.png",
+    "primaryColor": "#177517",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kaa_genk",
+    "name": "Kaa Genk",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Kaa%20Genk&background=9f7594&color=fff&size=128",
+    "primaryColor": "#9f7594",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "union_saint-gilloise",
+    "name": "Union Saint-Gilloise",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ljszp41654601742.png",
+    "primaryColor": "#12cd86",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rsc_anderlecht",
+    "name": "Rsc Anderlecht",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Rsc%20Anderlecht&background=64af7b&color=fff&size=128",
+    "primaryColor": "#64af7b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "royal_antwerp_fc",
+    "name": "Royal Antwerp Fc",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Royal%20Antwerp%20Fc&background=69bfed&color=fff&size=128",
+    "primaryColor": "#69bfed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "krc_gent",
+    "name": "Krc Gent",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Krc%20Gent&background=873ead&color=fff&size=128",
+    "primaryColor": "#873ead",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kv_mechelen",
+    "name": "Kv Mechelen",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sxsxpt1447618693.png",
+    "primaryColor": "#9be773",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kv_westerlo",
+    "name": "Kv Westerlo",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Kv%20Westerlo&background=32f968&color=fff&size=128",
+    "primaryColor": "#32f968",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sp_charleroi",
+    "name": "Sp. Charleroi",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sp.%20Charleroi&background=6fb261&color=fff&size=128",
+    "primaryColor": "#6fb261",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "oud-heverlee_leuven",
+    "name": "Oud-Heverlee Leuven",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/hxfhp01595605303.png",
+    "primaryColor": "#dc2489",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "standard_liège",
+    "name": "Standard Liège",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0ynlvb1771130035.png",
+    "primaryColor": "#079d75",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cercle_brugge",
+    "name": "Cercle Brugge",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0v6uv41656017321.png",
+    "primaryColor": "#ba3e7e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fcv_dender_eh",
+    "name": "Fcv Dender Eh",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fcv%20Dender%20Eh&background=ab70ca&color=fff&size=128",
+    "primaryColor": "#ab70ca",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sint-truiden",
+    "name": "Sint-Truiden",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qww8ap1534620441.png",
+    "primaryColor": "#83dba8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "la_louvière",
+    "name": "La Louvière",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/n89w2r1495566089.png",
+    "primaryColor": "#c67bf1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "zulte_waregem",
+    "name": "Zulte Waregem",
+    "nation": "Belgium",
+    "league": "Jupiler Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6mdsut1695740517.png",
+    "primaryColor": "#f4c357",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "galatasaray",
+    "name": "Galatasaray",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/io7jk21767941298.png",
+    "primaryColor": "#bd35d0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fenerbahçe",
+    "name": "Fenerbahçe",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/twxxvs1448199691.png",
+    "primaryColor": "#e95a52",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "beşiktaş",
+    "name": "Beşiktaş",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/cg07mt1679455607.png",
+    "primaryColor": "#4cef27",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "trabzonspor",
+    "name": "Trabzonspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/43oobe1672951178.png",
+    "primaryColor": "#2a13f6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "istanbul_başakşehir_fk",
+    "name": "Istanbul Başakşehir Fk",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Istanbul%20Ba%C5%9Fak%C5%9Fehir%20Fk&background=5efd92&color=fff&size=128",
+    "primaryColor": "#5efd92",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "eyüpspor",
+    "name": "Eyüpspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7fb0ub1626445710.png",
+    "primaryColor": "#14680c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "samsunspor",
+    "name": "Samsunspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vz05y71679456608.png",
+    "primaryColor": "#68c154",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "alanyaspor",
+    "name": "Alanyaspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9fr3071601667898.png",
+    "primaryColor": "#e033a9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gaziantep_fk",
+    "name": "Gaziantep Fk",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/00s02e1523093962.png",
+    "primaryColor": "#b6a5d1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "konyaspor",
+    "name": "Konyaspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rxwptr1448203413.png",
+    "primaryColor": "#c2070f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "çaykur_rizespor",
+    "name": "Çaykur Rizespor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=%C3%87aykur%20Rizespor&background=1b33d4&color=fff&size=128",
+    "primaryColor": "#1b33d4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "antalyaspor",
+    "name": "Antalyaspor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vqoral1601669436.png",
+    "primaryColor": "#fcc04f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kasımpaşa",
+    "name": "Kasımpaşa",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uryxtp1448203236.png",
+    "primaryColor": "#41f38e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kocaelispor",
+    "name": "Kocaelispor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f6erki1626445224.png",
+    "primaryColor": "#95d125",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "göztepe",
+    "name": "Göztepe",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9jwk7o1513952059.png",
+    "primaryColor": "#47eff6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gençlerbirliği",
+    "name": "Gençlerbirliği",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5hnd1c1639569938.png",
+    "primaryColor": "#0a410b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kayserispor",
+    "name": "Kayserispor",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bvskgi1601668985.png",
+    "primaryColor": "#24dbcb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bodrum_fk",
+    "name": "Bodrum Fk",
+    "nation": "Türki̇ye",
+    "league": "Trendyol Süper Lig",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2njed61657195683.png",
+    "primaryColor": "#aadad3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-hilal",
+    "name": "Al-Hilal",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 4.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w0b80d1661656916.png",
+    "primaryColor": "#7c6607",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-nassr",
+    "name": "Al-Nassr",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/84yvqi1748524565.png",
+    "primaryColor": "#f53817",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-ittihad",
+    "name": "Al-Ittihad",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8n1t1j1755192418.png",
+    "primaryColor": "#421095",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-ahli",
+    "name": "Al-Ahli",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1bbtgb1755192301.png",
+    "primaryColor": "#2f3919",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-qadsiah",
+    "name": "Al-Qadsiah",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png",
+    "primaryColor": "#344b4d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-taawoun",
+    "name": "Al-Taawoun",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rlsmp91646835052.png",
+    "primaryColor": "#1f2770",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-ettifaq",
+    "name": "Al-Ettifaq",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/m272h51694761970.png",
+    "primaryColor": "#76274a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "neom_sc",
+    "name": "Neom Sc",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Neom%20Sc&background=fa0067&color=fff&size=128",
+    "primaryColor": "#fa0067",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-shabab",
+    "name": "Al-Shabab",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/zbums21755192520.png",
+    "primaryColor": "#35fb3b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-khaleej",
+    "name": "Al-Khaleej",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mvf6ga1755192630.png",
+    "primaryColor": "#81496c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-okhdood",
+    "name": "Al-Okhdood",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ub1l7h1755193155.png",
+    "primaryColor": "#adb07b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-riyadh",
+    "name": "Al-Riyadh",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/i4o0zy1755193321.png",
+    "primaryColor": "#be7363",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-fateh",
+    "name": "Al-Fateh",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/a5cjf41662659789.png",
+    "primaryColor": "#08bc08",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-fayha",
+    "name": "Al-Fayha",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png",
+    "primaryColor": "#d9e3f3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "damac_fc",
+    "name": "Damac Fc",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/z2l4w31677530963.png",
+    "primaryColor": "#1a658b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al-hazem",
+    "name": "Al-Hazem",
+    "nation": "Saudi Arabia",
+    "league": "Saudi Pro League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3uy27p1635871755.png",
+    "primaryColor": "#6a234c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "boca_juniors",
+    "name": "Boca Juniors",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2en2k01769678216.png",
+    "primaryColor": "#77a45f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "river_plate",
+    "name": "River Plate",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/03dmi31645539717.png",
+    "primaryColor": "#da79c6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "racing_club",
+    "name": "Racing Club",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+    "primaryColor": "#0842cb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "estudiantes",
+    "name": "Estudiantes",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/linsx31718390472.png",
+    "primaryColor": "#df0955",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "talleres",
+    "name": "Talleres",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Talleres&background=d76f35&color=fff&size=128",
+    "primaryColor": "#d76f35",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "independiente",
+    "name": "Independiente",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eki4nd1580842605.png",
+    "primaryColor": "#bd54b3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "san_lorenzo",
+    "name": "San Lorenzo",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qr7ose1517769136.png",
+    "primaryColor": "#d73d35",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vélez_sarsfield",
+    "name": "Vélez Sarsfield",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jo98m71517769587.png",
+    "primaryColor": "#2b2bdd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rosario_central",
+    "name": "Rosario Central",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/y6q1ds1769660256.png",
+    "primaryColor": "#f7b4ae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "newells_old_boys",
+    "name": "Newell'S Old Boys",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/23aftf1580842633.png",
+    "primaryColor": "#a3bade",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lanús",
+    "name": "Lanús",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ddty0w1769146364.png",
+    "primaryColor": "#d3f61b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "godoy_cruz",
+    "name": "Godoy Cruz",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d3c0ds1517768584.png",
+    "primaryColor": "#3a15d5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "huracán",
+    "name": "Huracán",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3cafun1580842587.png",
+    "primaryColor": "#fa110f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "defensa_y_justicia",
+    "name": "Defensa Y Justicia",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/e5dof21626200467.png",
+    "primaryColor": "#d36688",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "belgrano",
+    "name": "Belgrano",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+    "primaryColor": "#a9a88b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "banfield",
+    "name": "Banfield",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/udyvv91517768017.png",
+    "primaryColor": "#289095",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tigre",
+    "name": "Tigre",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/krryg71765858882.png",
+    "primaryColor": "#c03e35",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "atlético_tucumán",
+    "name": "Atlético Tucumán",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sqvwxw1471876021.png",
+    "primaryColor": "#e7689d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gimnasia",
+    "name": "Gimnasia",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Gimnasia&background=bc796b&color=fff&size=128",
+    "primaryColor": "#bc796b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "argentinos_jrs",
+    "name": "Argentinos Jrs.",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uqfjuo1769234850.png",
+    "primaryColor": "#d03255",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "unión",
+    "name": "Unión",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/btnx6q1734587495.png",
+    "primaryColor": "#b18d6e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "platense",
+    "name": "Platense",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lbs14n1769317149.png",
+    "primaryColor": "#408ef3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "barracas_central",
+    "name": "Barracas Central",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rbkjba1707458543.png",
+    "primaryColor": "#5008ae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "instituto",
+    "name": "Instituto",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jup59w1578825794.png",
+    "primaryColor": "#98fea8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sarmiento",
+    "name": "Sarmiento",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xxofu71677634191.png",
+    "primaryColor": "#48a207",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "central_córdoba",
+    "name": "Central Córdoba",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d62xkc1576101576.png",
+    "primaryColor": "#925e23",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aldosivi",
+    "name": "Aldosivi",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nqrjqb1517767667.png",
+    "primaryColor": "#09e76f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ind_rivadavia",
+    "name": "Ind. Rivadavia",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ind.%20Rivadavia&background=5b1b66&color=fff&size=128",
+    "primaryColor": "#5b1b66",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "san_martín",
+    "name": "San Martín",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o7ynwr1679134107.png",
+    "primaryColor": "#47c5b9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dep_riestra",
+    "name": "Dep. Riestra",
+    "nation": "Argentina",
+    "league": "Liga Profesional De Fútbol",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Dep.%20Riestra&background=b2e263&color=fff&size=128",
+    "primaryColor": "#b2e263",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "inter_miami_cf",
+    "name": "Inter Miami Cf",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Inter%20Miami%20Cf&background=a6727a&color=fff&size=128",
+    "primaryColor": "#a6727a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_cincinnati",
+    "name": "Fc Cincinnati",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vvhsqc1707631046.png",
+    "primaryColor": "#fa62bd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "seattle_sounders_fc",
+    "name": "Seattle Sounders Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
+    "primaryColor": "#349e7f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "atlanta_united",
+    "name": "Atlanta United",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ej091x1602103070.png",
+    "primaryColor": "#659284",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "charlotte_fc",
+    "name": "Charlotte Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/b6p4uz1595434047.png",
+    "primaryColor": "#3aeaf9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "columbus_crew",
+    "name": "Columbus Crew",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/dzs8cp1629059854.png",
+    "primaryColor": "#7f923d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "los_angeles_fc",
+    "name": "Los Angeles Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7nbj2a1602103638.png",
+    "primaryColor": "#a1a3df",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "la_galaxy",
+    "name": "La Galaxy",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ysyysr1420227188.png",
+    "primaryColor": "#76929f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vancouver_whitecaps_fc",
+    "name": "Vancouver Whitecaps Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Vancouver%20Whitecaps%20Fc&background=4c8e51&color=fff&size=128",
+    "primaryColor": "#4c8e51",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chicago_fire",
+    "name": "Chicago Fire",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8xuc781639493166.png",
+    "primaryColor": "#fe677f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "austin_fc",
+    "name": "Austin Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/a3dlg61595434277.png",
+    "primaryColor": "#e7d4f4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "san_jose_earthquakes",
+    "name": "San Jose Earthquakes",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xyrqqt1420781048.png",
+    "primaryColor": "#ab1b1f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "minnesota_united_fc",
+    "name": "Minnesota United Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yi3r291564336279.png",
+    "primaryColor": "#99c931",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "nashville_sc",
+    "name": "Nashville Sc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/znrwt71602103062.png",
+    "primaryColor": "#42d4ae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "new_england_revolution",
+    "name": "New England Revolution",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1ula2l1639493143.png",
+    "primaryColor": "#5aa2e1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "new_york_red_bulls",
+    "name": "New York Red Bulls",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/suytvy1473536462.png",
+    "primaryColor": "#3e25e4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "orlando_city",
+    "name": "Orlando City",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qyppxw1423832326.png",
+    "primaryColor": "#f2883c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "portland_timbers",
+    "name": "Portland Timbers",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/skm30j1557953559.png",
+    "primaryColor": "#f3bc10",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sporting_kansas_city",
+    "name": "Sporting Kansas City",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png",
+    "primaryColor": "#aed1b5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "st_louis_city_sc",
+    "name": "St. Louis City Sc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/22wanp1674118724.png",
+    "primaryColor": "#a83299",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_dallas",
+    "name": "Fc Dallas",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vxy8xy1602103187.png",
+    "primaryColor": "#f1b892",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "houston_dynamo",
+    "name": "Houston Dynamo",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yvz9dq1707631352.png",
+    "primaryColor": "#26bbfe",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "new_york_city_fc",
+    "name": "New York City Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/m9vis71735140655.png",
+    "primaryColor": "#93e54f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "philadelphia_union",
+    "name": "Philadelphia Union",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/gyznyo1602103682.png",
+    "primaryColor": "#5d6e71",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "real_salt_lake",
+    "name": "Real Salt Lake",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/kkjlfa1556488022.png",
+    "primaryColor": "#0d6b38",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "colorado_rapids",
+    "name": "Colorado Rapids",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uppupv1473536412.png",
+    "primaryColor": "#359391",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dc_united",
+    "name": "Dc United",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uwvsyt1467462609.png",
+    "primaryColor": "#78cbe4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "toronto_fc",
+    "name": "Toronto Fc",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rsxyrr1473536512.png",
+    "primaryColor": "#597b15",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cf_montréal",
+    "name": "Cf Montréal",
+    "nation": "United States",
+    "league": "Major League Soccer",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/livdl31679344925.png",
+    "primaryColor": "#9da8d2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ulsan_hd_fc",
+    "name": "Ulsan Hd Fc",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ulsan%20Hd%20Fc&background=ad3987&color=fff&size=128",
+    "primaryColor": "#ad3987",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "jeonbuk_hyundai_motors",
+    "name": "Jeonbuk Hyundai Motors",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8jif3b1747853225.png",
+    "primaryColor": "#a6161e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "pohang_steelers",
+    "name": "Pohang Steelers",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/63jst01769097748.png",
+    "primaryColor": "#e42d11",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_seoul",
+    "name": "Fc Seoul",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/31z1zf1579473186.png",
+    "primaryColor": "#ae6a6d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "jeju_united",
+    "name": "Jeju United",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Jeju%20United&background=538bc4&color=fff&size=128",
+    "primaryColor": "#538bc4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "daegu_fc",
+    "name": "Daegu Fc",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xzjzn11579473073.png",
+    "primaryColor": "#0b0693",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "daejeon_hana_citizen",
+    "name": "Daejeon Hana Citizen",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o9z6eq1589558557.png",
+    "primaryColor": "#eb3256",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gangwon_fc",
+    "name": "Gangwon Fc",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/c4igx71579729617.png",
+    "primaryColor": "#53596a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gimcheon_sangmu",
+    "name": "Gimcheon Sangmu",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/g4cjyk1609536787.png",
+    "primaryColor": "#c29f65",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gwangju_fc",
+    "name": "Gwangju Fc",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uuzr4x1579473084.png",
+    "primaryColor": "#2ae232",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "incheon_united",
+    "name": "Incheon United",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2no9nq1579473100.png",
+    "primaryColor": "#49f39f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "suwon_fc",
+    "name": "Suwon Fc",
+    "nation": "South Korea",
+    "league": "K League 1",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/x39pm41589559443.png",
+    "primaryColor": "#4dfb50",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "auckland_fc",
+    "name": "Auckland Fc",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f36lst1730017502.png",
+    "primaryColor": "#4e295a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "western_sydney_wanderers",
+    "name": "Western Sydney Wanderers",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yotugj1759632879.png",
+    "primaryColor": "#4ef859",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "melbourne_victory",
+    "name": "Melbourne Victory",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wwvsqx1473454564.png",
+    "primaryColor": "#5cfb6f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "melbourne_city",
+    "name": "Melbourne City",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rkeqme1603301840.png",
+    "primaryColor": "#768ac6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "perth_glory",
+    "name": "Perth Glory",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2c9k5p1679114095.png",
+    "primaryColor": "#d434eb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "adelaide_united",
+    "name": "Adelaide United",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wpyuwv1473454602.png",
+    "primaryColor": "#f005ae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "newcastle_jets",
+    "name": "Newcastle Jets",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/5jevk91653487832.png",
+    "primaryColor": "#99cc7c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sydney_fc",
+    "name": "Sydney Fc",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/utgq8z1546110747.png",
+    "primaryColor": "#bceda2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "macarthur_fc",
+    "name": "Macarthur Fc",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9gr66g1579348350.png",
+    "primaryColor": "#eec04d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "brisbane_roar",
+    "name": "Brisbane Roar",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sypxsu1473454634.png",
+    "primaryColor": "#86f386",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "central_coast_mariners",
+    "name": "Central Coast Mariners",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ncdx4p1759642161.png",
+    "primaryColor": "#7c58d4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wellington_phoenix",
+    "name": "Wellington Phoenix",
+    "nation": "Australia",
+    "league": "A-League Men",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/4uj8271759632738.png",
+    "primaryColor": "#3186c2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "legia_warszawa",
+    "name": "Legia Warszawa",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/c969ez1632775656.png",
+    "primaryColor": "#e63c9b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lech_poznań",
+    "name": "Lech Poznań",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8zfxyx1685597440.png",
+    "primaryColor": "#a405c2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "jagiellonia_białystok",
+    "name": "Jagiellonia Białystok",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ucze1y1601404699.png",
+    "primaryColor": "#58bf3d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "pogoń_szczecin",
+    "name": "Pogoń Szczecin",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uxyuwx1448219553.png",
+    "primaryColor": "#426401",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cracovia",
+    "name": "Cracovia",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bgqbo51714200086.png",
+    "primaryColor": "#45f87c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "górnik_zabrze",
+    "name": "Górnik Zabrze",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fk1fam1767928408.png",
+    "primaryColor": "#206f29",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gks_katowice",
+    "name": "Gks Katowice",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ypyaxk1756386281.png",
+    "primaryColor": "#5d772d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lechia_gdańsk",
+    "name": "Lechia Gdańsk",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/92qkyn1601412225.png",
+    "primaryColor": "#a4b0c4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "motor_lublin",
+    "name": "Motor Lublin",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7qevx11720351099.png",
+    "primaryColor": "#8ae500",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "radomiak_radom",
+    "name": "Radomiak Radom",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wpi1dx1698554708.png",
+    "primaryColor": "#21c311",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "zagłębie_lubin",
+    "name": "Zagłębie Lubin",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/7n07qf1702990302.png",
+    "primaryColor": "#5e0977",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "korona_kielce",
+    "name": "Korona Kielce",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ytpvtv1448218305.png",
+    "primaryColor": "#752baf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wisła_płock",
+    "name": "Wisła Płock",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/o1n52v1698554231.png",
+    "primaryColor": "#d57dc6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "arka_gdynia",
+    "name": "Arka Gdynia",
+    "nation": "Poland",
+    "league": "Pko Ekstraklasa",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/i6ls7n1698553767.png",
+    "primaryColor": "#7ca5e6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rb_salzburg",
+    "name": "Rb Salzburg",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Rb%20Salzburg&background=7e3ed6&color=fff&size=128",
+    "primaryColor": "#7e3ed6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sk_sturm_graz",
+    "name": "Sk Sturm Graz",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sk%20Sturm%20Graz&background=b5579d&color=fff&size=128",
+    "primaryColor": "#b5579d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sk_rapid",
+    "name": "Sk Rapid",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sk%20Rapid&background=9ca16e&color=fff&size=128",
+    "primaryColor": "#9ca16e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fk_austria_wien",
+    "name": "Fk Austria Wien",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fk%20Austria%20Wien&background=7ddb78&color=fff&size=128",
+    "primaryColor": "#7ddb78",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lask",
+    "name": "Lask",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/oox26l1683556395.png",
+    "primaryColor": "#3ce976",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wolfsberger_ac",
+    "name": "Wolfsberger Ac",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xcwuqt1568668946.png",
+    "primaryColor": "#0b657e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tsv_hartberg",
+    "name": "Tsv Hartberg",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/72c0xg1578833261.png",
+    "primaryColor": "#544b64",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "blau-weiss_linz",
+    "name": "Blau-Weiss Linz",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Blau-Weiss%20Linz&background=6a31c4&color=fff&size=128",
+    "primaryColor": "#6a31c4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "grazer_ak",
+    "name": "Grazer Ak",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/43rocv1750352978.png",
+    "primaryColor": "#a95b81",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "scr_altach",
+    "name": "Scr Altach",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/2hit6x1750352012.png",
+    "primaryColor": "#531065",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sv_oberbank_ried",
+    "name": "Sv Oberbank Ried",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sv%20Oberbank%20Ried&background=698961&color=fff&size=128",
+    "primaryColor": "#698961",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wsg_tirol",
+    "name": "Wsg Tirol",
+    "nation": "Austria",
+    "league": "Österreichische Bundesliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/9dmxk01685123856.png",
+    "primaryColor": "#693882",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_copenhagen",
+    "name": "Fc Copenhagen",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/styqtr1473535513.png",
+    "primaryColor": "#4a765b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_midtjylland",
+    "name": "Fc Midtjylland",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/s5bpcr1755712262.png",
+    "primaryColor": "#57e74e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "brøndby_if",
+    "name": "Brøndby If",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ywswyw1473535498.png",
+    "primaryColor": "#c67d5c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "agf",
+    "name": "Agf",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Agf&background=ef1eb8&color=fff&size=128",
+    "primaryColor": "#ef1eb8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_nordsjælland",
+    "name": "Fc Nordsjælland",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/p2hof41579460164.png",
+    "primaryColor": "#a4de67",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "silkeborg_if",
+    "name": "Silkeborg If",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tpxvvp1473535560.png",
+    "primaryColor": "#aa846c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "randers_fc",
+    "name": "Randers Fc",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w0kmhn1690407779.png",
+    "primaryColor": "#2ef4fa",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "viborg_ff",
+    "name": "Viborg Ff",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uvrpsp1447539333.png",
+    "primaryColor": "#583b9f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ob",
+    "name": "Ob",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3p4pjd1747811960.png",
+    "primaryColor": "#0ec1c5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "vejle_bk",
+    "name": "Vejle Bk",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fhlqev1532855346.png",
+    "primaryColor": "#4a583a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fredericia",
+    "name": "Fredericia",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/q2qi7p1580134434.png",
+    "primaryColor": "#beacd7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "haderslev_fk",
+    "name": "Haderslev Fk",
+    "nation": "Denmark",
+    "league": "3F Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Haderslev%20Fk&background=ec70e1&color=fff&size=128",
+    "primaryColor": "#ec70e1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "malmö_ff",
+    "name": "Malmö Ff",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wvvuqs1420764546.png",
+    "primaryColor": "#94c77e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "djurgårdens_if",
+    "name": "Djurgårdens If",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/eoxtmh1644937914.png",
+    "primaryColor": "#ff783e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aik",
+    "name": "Aik",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rwsrxq1420769503.png",
+    "primaryColor": "#378e34",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "if_elfsborg",
+    "name": "If Elfsborg",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=If%20Elfsborg&background=d02e95&color=fff&size=128",
+    "primaryColor": "#d02e95",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bk_häcken",
+    "name": "Bk Häcken",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Bk%20H%C3%A4cken&background=1f09c6&color=fff&size=128",
+    "primaryColor": "#1f09c6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hammarby_if",
+    "name": "Hammarby If",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3kgg5b1592144695.png",
+    "primaryColor": "#7cce1d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mjällby_aif",
+    "name": "Mjällby Aif",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ruwqxv1430239112.png",
+    "primaryColor": "#0c88b4",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ifk_göteborg",
+    "name": "Ifk Göteborg",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ywyxtp1429470529.png",
+    "primaryColor": "#e9f921",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gais",
+    "name": "Gais",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3pahks1639779139.png",
+    "primaryColor": "#64ecc0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "if_brommapojkarna",
+    "name": "If Brommapojkarna",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nwr81l1639779730.png",
+    "primaryColor": "#38ba3f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ifk_norrköping",
+    "name": "Ifk Norrköping",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ifk%20Norrk%C3%B6ping&background=a802ac&color=fff&size=128",
+    "primaryColor": "#a802ac",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ik_sirius",
+    "name": "Ik Sirius",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ik%20Sirius&background=cdebbd&color=fff&size=128",
+    "primaryColor": "#cdebbd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "halmstads_bk",
+    "name": "Halmstads Bk",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Halmstads%20Bk&background=babeaf&color=fff&size=128",
+    "primaryColor": "#babeaf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ifk_värnamo",
+    "name": "Ifk Värnamo",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Ifk%20V%C3%A4rnamo&background=e346ae&color=fff&size=128",
+    "primaryColor": "#e346ae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "östers_if",
+    "name": "Östers If",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=%C3%96sters%20If&background=baa9ad&color=fff&size=128",
+    "primaryColor": "#baa9ad",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "degerfors_if",
+    "name": "Degerfors If",
+    "nation": "Sweden",
+    "league": "Allsvenskan",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/wrytvq1429977939.png",
+    "primaryColor": "#ac7247",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bsc_young_boys",
+    "name": "Bsc Young Boys",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Bsc%20Young%20Boys&background=41435f&color=fff&size=128",
+    "primaryColor": "#41435f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_basel",
+    "name": "Fc Basel",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Basel&background=1f3133&color=fff&size=128",
+    "primaryColor": "#1f3133",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_zürich",
+    "name": "Fc Zürich",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Z%C3%BCrich&background=b93821&color=fff&size=128",
+    "primaryColor": "#b93821",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "servette_fc",
+    "name": "Servette Fc",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/440wv71692206330.png",
+    "primaryColor": "#fabb5f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_st_gallen",
+    "name": "Fc St. Gallen",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20St.%20Gallen&background=ecce09&color=fff&size=128",
+    "primaryColor": "#ecce09",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_lugano",
+    "name": "Fc Lugano",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Lugano&background=fa6b68&color=fff&size=128",
+    "primaryColor": "#fa6b68",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_luzern",
+    "name": "Fc Luzern",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Luzern&background=3477dd&color=fff&size=128",
+    "primaryColor": "#3477dd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "grasshopper_club_zürich",
+    "name": "Grasshopper Club Zürich",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Grasshopper%20Club%20Z%C3%BCrich&background=d36dbe&color=fff&size=128",
+    "primaryColor": "#d36dbe",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_winterthur",
+    "name": "Fc Winterthur",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Winterthur&background=922a8f&color=fff&size=128",
+    "primaryColor": "#922a8f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lausanne-sport",
+    "name": "Lausanne-Sport",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/za539g1580927491.png",
+    "primaryColor": "#e411df",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "lausanne_ouchy",
+    "name": "Lausanne Ouchy",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Lausanne%20Ouchy&background=d86bc9&color=fff&size=128",
+    "primaryColor": "#d86bc9",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "yverdon_sport",
+    "name": "Yverdon Sport",
+    "nation": "Switzerland",
+    "league": "Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mgacsr1624714631.png",
+    "primaryColor": "#945169",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fcsb",
+    "name": "Fcsb",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/123g021759420850.png",
+    "primaryColor": "#af2616",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cfr_cluj",
+    "name": "Cfr Cluj",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/81uzfv1507891573.png",
+    "primaryColor": "#7cbcdf",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "universitatea_craiova",
+    "name": "Universitatea Craiova",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1jdz2y1579793710.png",
+    "primaryColor": "#7e6fe3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "farul_constanța",
+    "name": "Farul Constanța",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/37r50u1638479392.png",
+    "primaryColor": "#8482b0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rapid_bucurești",
+    "name": "Rapid București",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0qejdm1638479382.png",
+    "primaryColor": "#9a9ba8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "petrolul_ploiești",
+    "name": "Petrolul Ploiești",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mv8kh01656874656.png",
+    "primaryColor": "#4d5897",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sepsi_osk",
+    "name": "Sepsi Osk",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ggoh1h1638479369.png",
+    "primaryColor": "#24cf96",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dinamo_bucurești",
+    "name": "Dinamo București",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3mjc5p1770089100.png",
+    "primaryColor": "#24f415",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hermannstadt",
+    "name": "Hermannstadt",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d3xtjz1579793605.png",
+    "primaryColor": "#f0cb89",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "oțelul_galați",
+    "name": "Oțelul Galați",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/cfkqt61770049560.png",
+    "primaryColor": "#02cf55",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "politehnica_iași",
+    "name": "Politehnica Iași",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/8m2z1i1719993924.png",
+    "primaryColor": "#322a52",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "universitatea_cluj",
+    "name": "Universitatea Cluj",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/fn9rwv1579794565.png",
+    "primaryColor": "#f1123b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_voluntari",
+    "name": "Fc Voluntari",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Voluntari&background=201e89&color=fff&size=128",
+    "primaryColor": "#201e89",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "gloria_buzău",
+    "name": "Gloria Buzău",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/321fnj1656016575.png",
+    "primaryColor": "#ec0bfe",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "uta_arad",
+    "name": "Uta Arad",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/m310bo1638479358.png",
+    "primaryColor": "#7d903d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "unirea_slobozia",
+    "name": "Unirea Slobozia",
+    "nation": "Romania",
+    "league": "Superliga",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/i4kwba1719993896.png",
+    "primaryColor": "#9dbee5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "celtic",
+    "name": "Celtic",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 3.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    "primaryColor": "#84f918",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "rangers",
+    "name": "Rangers",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ti24j61614290048.png",
+    "primaryColor": "#ad091e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aberdeen",
+    "name": "Aberdeen",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xuvwys1447597299.png",
+    "primaryColor": "#f5f72e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "heart_of_midlothian",
+    "name": "Heart Of Midlothian",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/twqvyt1447597939.png",
+    "primaryColor": "#9b9699",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hibernian",
+    "name": "Hibernian",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qjys3z1684928969.png",
+    "primaryColor": "#d0e6b1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dundee",
+    "name": "Dundee",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/tlei9x1750743461.png",
+    "primaryColor": "#a9026c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dundee_united",
+    "name": "Dundee United",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/orfh821655722356.png",
+    "primaryColor": "#6cd2ad",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kilmarnock",
+    "name": "Kilmarnock",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xssqtu1447596951.png",
+    "primaryColor": "#8ccdae",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "livingston",
+    "name": "Livingston",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1o38ll1749203191.png",
+    "primaryColor": "#921d31",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "motherwell",
+    "name": "Motherwell",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vsysqx1447598301.png",
+    "primaryColor": "#763649",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ross_county",
+    "name": "Ross County",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/yi482m1688532289.png",
+    "primaryColor": "#216232",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "st_johnstone",
+    "name": "St. Johnstone",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=St.%20Johnstone&background=b7122e&color=fff&size=128",
+    "primaryColor": "#b7122e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "st_mirren",
+    "name": "St. Mirren",
+    "nation": "Scotland",
+    "league": "Cinch Premiership",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=St.%20Mirren&background=b097a1&color=fff&size=128",
+    "primaryColor": "#b097a1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mohun_bagan_super_giant",
+    "name": "Mohun Bagan Super Giant",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/g3zmfx1694438403.png",
+    "primaryColor": "#18ce50",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mumbai_city_fc",
+    "name": "Mumbai City Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Mumbai%20City%20Fc&background=79d1c3&color=fff&size=128",
+    "primaryColor": "#79d1c3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bengaluru_fc",
+    "name": "Bengaluru Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/d9172h1770822547.png",
+    "primaryColor": "#0f10f3",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "fc_goa",
+    "name": "Fc Goa",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Fc%20Goa&background=13e2de&color=fff&size=128",
+    "primaryColor": "#13e2de",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "kerala_blasters_fc",
+    "name": "Kerala Blasters Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Kerala%20Blasters%20Fc&background=cf75eb&color=fff&size=128",
+    "primaryColor": "#cf75eb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "jamshedpur_fc",
+    "name": "Jamshedpur Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vn0g0y1583254736.png",
+    "primaryColor": "#7f6087",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "northeast_united_fc",
+    "name": "Northeast United Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Northeast%20United%20Fc&background=19262d&color=fff&size=128",
+    "primaryColor": "#19262d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chennaiyin_fc",
+    "name": "Chennaiyin Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/g5rypn1583254717.png",
+    "primaryColor": "#2e9dbb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hyderabad_fc",
+    "name": "Hyderabad Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Hyderabad%20Fc&background=b59129&color=fff&size=128",
+    "primaryColor": "#b59129",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "odisha_fc",
+    "name": "Odisha Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ljpjmn1693034492.png",
+    "primaryColor": "#1f844a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "punjab_fc",
+    "name": "Punjab Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qwet071770822967.png",
+    "primaryColor": "#145266",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "east_bengal_fc",
+    "name": "East Bengal Fc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=East%20Bengal%20Fc&background=5f2f18&color=fff&size=128",
+    "primaryColor": "#5f2f18",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "inter_kashi",
+    "name": "Inter Kashi",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/0fnldv1730217291.png",
+    "primaryColor": "#6c40d8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "mohammedan_sc",
+    "name": "Mohammedan Sc",
+    "nation": "India",
+    "league": "Indian Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/lsxe8s1589707552.png",
+    "primaryColor": "#cb5445",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shanghai_shenhua",
+    "name": "Shanghai Shenhua",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/p0r1bj1654266974.png",
+    "primaryColor": "#afb92a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shanghai_port",
+    "name": "Shanghai Port",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1gotwp1622562445.png",
+    "primaryColor": "#6bccc6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "beijing_guoan",
+    "name": "Beijing Guoan",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/cdkguq1652626854.png",
+    "primaryColor": "#e4efa1",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "chengdu_rongcheng",
+    "name": "Chengdu Rongcheng",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/r20v6x1713897058.png",
+    "primaryColor": "#f54718",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shandong_taishan",
+    "name": "Shandong Taishan",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vheyu21654266995.png",
+    "primaryColor": "#ba3e19",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "zhejiang_professional_fc",
+    "name": "Zhejiang Professional Fc",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Zhejiang%20Professional%20Fc&background=3078fd&color=fff&size=128",
+    "primaryColor": "#3078fd",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "tianjin_jinmen_tiger",
+    "name": "Tianjin Jinmen Tiger",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rjf7dg1619096344.png",
+    "primaryColor": "#9b295f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "henan_fc",
+    "name": "Henan Fc",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/mc9rzf1699122167.png",
+    "primaryColor": "#0e4cb7",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "changchun_yatai",
+    "name": "Changchun Yatai",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/r4c0lo1580938099.png",
+    "primaryColor": "#7df3d8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "wuhan_three_towns",
+    "name": "Wuhan Three Towns",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/3c4tq21619033006.png",
+    "primaryColor": "#381539",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "meizhou_hakka",
+    "name": "Meizhou Hakka",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ae8zf61580929311.png",
+    "primaryColor": "#d60128",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "qingdao_west_coast",
+    "name": "Qingdao West Coast",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/6gnvpg1680389414.png",
+    "primaryColor": "#4145c2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "yunnan_yukun",
+    "name": "Yunnan Yukun",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/bze3ex1738388987.png",
+    "primaryColor": "#b1f3bb",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dalian_yingbo",
+    "name": "Dalian Yingbo",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/isc1241738389501.png",
+    "primaryColor": "#bff33f",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "qingdao_hainiu",
+    "name": "Qingdao Hainiu",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/qzq6nw1654864098.png",
+    "primaryColor": "#38cf4b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shenzhen_peng_city",
+    "name": "Shenzhen Peng City",
+    "nation": "China Pr",
+    "league": "Chinese Super League",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/jsv5901716654183.png",
+    "primaryColor": "#8af583",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shamrock_rovers",
+    "name": "Shamrock Rovers",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/u1zowj1491504381.png",
+    "primaryColor": "#b5fe29",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "st_patricks_athletic",
+    "name": "St Patrick'S Athletic",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/rdm7121546008891.png",
+    "primaryColor": "#1c7de6",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "derry_city",
+    "name": "Derry City",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/i5u42j1602256316.png",
+    "primaryColor": "#dae24d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shelbourne",
+    "name": "Shelbourne",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/brh8t91579281545.png",
+    "primaryColor": "#3382c0",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "bohemians",
+    "name": "Bohemians",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/78i24h1734625752.png",
+    "primaryColor": "#e4a411",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dundalk",
+    "name": "Dundalk",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/uzyrla1770290793.png",
+    "primaryColor": "#eb5a2c",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "drogheda_united",
+    "name": "Drogheda United",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/w1j16u1582565320.png",
+    "primaryColor": "#1f0d9a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "waterford",
+    "name": "Waterford",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/a1z2bm1765902989.png",
+    "primaryColor": "#9ada3a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "galway_united",
+    "name": "Galway United",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/nil4001582565343.png",
+    "primaryColor": "#99b394",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sligo_rovers",
+    "name": "Sligo Rovers",
+    "nation": "Republic Of Ireland",
+    "league": "Sse Airtricity Premier Division",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/1e9wvc1602256331.png",
+    "primaryColor": "#389526",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "shakhtar_donetsk",
+    "name": "Shakhtar Donetsk",
+    "nation": "Ukraine",
+    "league": "Rest Of World",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/sqrxsr1421791799.png",
+    "primaryColor": "#4c1172",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "flamengo",
+    "name": "Flamengo",
+    "nation": "Brazil",
+    "league": "Rest Of World",
+    "starRating": 3.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+    "primaryColor": "#da5aa5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "club_america",
+    "name": "Club America",
+    "nation": "Mexico",
+    "league": "Rest Of World",
+    "starRating": 3.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Club%20America&background=b3a6c5&color=fff&size=128",
+    "primaryColor": "#b3a6c5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "aek_athens",
+    "name": "Aek Athens",
+    "nation": "Greece",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/4nogst1602773624.png",
+    "primaryColor": "#41bfe2",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "olympiacos_fc",
+    "name": "Olympiacos Fc",
+    "nation": "Greece",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/xckasq1721291508.png",
+    "primaryColor": "#207c7b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "panathinaikos",
+    "name": "Panathinaikos",
+    "nation": "Greece",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/vtpwwt1448208397.png",
+    "primaryColor": "#8ffd4d",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dinamo_zagreb",
+    "name": "Dinamo Zagreb",
+    "nation": "Croatia",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/araidi1579955395.png",
+    "primaryColor": "#dcda87",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "slavia_praha",
+    "name": "Slavia Praha",
+    "nation": "Czech Republic",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Slavia%20Praha&background=cc41ad&color=fff&size=128",
+    "primaryColor": "#cc41ad",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "sparta_praha",
+    "name": "Sparta Praha",
+    "nation": "Czech Republic",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Sparta%20Praha&background=23d983&color=fff&size=128",
+    "primaryColor": "#23d983",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "cruz_azul",
+    "name": "Cruz Azul",
+    "nation": "Mexico",
+    "league": "Rest Of World",
+    "starRating": 2.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/cf4ozx1655760184.png",
+    "primaryColor": "#1a2964",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "paok_fc",
+    "name": "Paok Fc",
+    "nation": "Greece",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png",
+    "primaryColor": "#6fdf7e",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "dynamo_kyiv",
+    "name": "Dynamo Kyiv",
+    "nation": "Ukraine",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/stxrpx1447696362.png",
+    "primaryColor": "#960811",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "ferencvárosi_tc",
+    "name": "Ferencvárosi Tc",
+    "nation": "Hungary",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/emav6v1575293649.png",
+    "primaryColor": "#9158f8",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "qarabağ_fk",
+    "name": "Qarabağ Fk",
+    "nation": "Azerbaijan",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/f9h2by1725001244.png",
+    "primaryColor": "#49307b",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hajduk_split",
+    "name": "Hajduk Split",
+    "nation": "Croatia",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/23mvtk1579955412.png",
+    "primaryColor": "#cbe657",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "viktoria_plzeň",
+    "name": "Viktoria Plzeň",
+    "nation": "Czech Republic",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png",
+    "primaryColor": "#2044c5",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "al_ain_fc",
+    "name": "Al Ain Fc",
+    "nation": "Uae",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Al%20Ain%20Fc&background=c4d21a&color=fff&size=128",
+    "primaryColor": "#c4d21a",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "uni_católica",
+    "name": "Uni. Católica",
+    "nation": "Chile",
+    "league": "Rest Of World",
+    "starRating": 2.0,
+    "badgeUrl": "https://ui-avatars.com/api/?name=Uni.%20Cat%C3%B3lica&background=cae3ba&color=fff&size=128",
+    "primaryColor": "#cae3ba",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "hjk_helsinki",
+    "name": "Hjk Helsinki",
+    "nation": "Finland",
+    "league": "Rest Of World",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/n7towl1615757839.png",
+    "primaryColor": "#d67bed",
+    "secondaryColor": "#FFFFFF"
+  },
+  {
+    "id": "apoel_nicosia",
+    "name": "Apoel Nicosia",
+    "nation": "Cyprus",
+    "league": "Rest Of World",
+    "starRating": 1.5,
+    "badgeUrl": "https://r2.thesportsdb.com/images/media/team/badge/ccra6l1579035947.png",
+    "primaryColor": "#791efc",
+    "secondaryColor": "#FFFFFF"
+  }
+]
