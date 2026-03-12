@@ -96,7 +96,3 @@ If you enjoy this app, consider supporting the developer:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-**Made with ❤️ by [Craziers](https://ko-fi.com/craziers)**
