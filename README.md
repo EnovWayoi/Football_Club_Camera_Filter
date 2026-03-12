@@ -19,7 +19,7 @@ Point your camera at one or more faces, hit **SPIN**, and watch the slot-machine
 1. **Open the app** and grant camera permission.
 2. **Point the camera** at one or more faces.
 3. **Tap SPIN** — the app runs a 2.5-second shuffle animation, then assigns a random club to each face.
-4. Each face gets a **unique club card overlay** showing the club badge, name, and team colors.
+4. Each face gets a **unique club card overlay** showing the club badge, name, league, and nation.
 5. Use the **Dashboard** to filter which clubs are included in the spin pool.
 6. Check **History** to see all past assignments.
 
